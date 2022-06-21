@@ -3,7 +3,7 @@
 #include <optional>
 #include <fstream>
 
-const std::string WRONG_NUMBER_OF_ARGUMENTS = "Invalid number of arguments\n Use: replace.exe <input file> <output file> < search string> <replace string>\n";
+const std::string WRONG_NUMBER_OF_ARGUMENTS = "Invalid number of arguments\n Use: replace.exe <input file> <output file> <search string> <replace string>\n";
 const int NUMBER_OF_ARGUMENTS = 5;
 
 struct Args
